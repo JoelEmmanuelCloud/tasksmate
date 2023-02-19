@@ -1,6 +1,7 @@
 # TodoList APP
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDKnDCJjP5otiGCLe46AII80A06x9PRNl4Xg&usqp=CAU" alt=" TodoList" width="200" height="200" style="border:5px solid black">
+<img src="https://media.tenor.com/adNy2LB2V9cAAAAM/to-do-list-check-list.gif" alt=" TodoList" width="250" height="200" style="border:5px solid black">
+
 
 A very basic ToDo List Application project for all the Python Django Enthusiasts !
 Contant me on twitter https://twitter.com/EmmanuelJoel0
